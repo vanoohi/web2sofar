@@ -1,0 +1,45 @@
+.Header{
+  color: black;
+  background-color: white;
+  text-align: center;
+  font-family:"Arial";
+  font-size:45px;
+}
+.Body{
+    font-size:20px;
+    text-align:center;
+    background: grey;
+}
+.groupheader{
+    font-size:30px;
+    text-align:left;
+    margin-left:20px;
+}
+.groupimage{
+    margin-left:20px;
+    margin-bottom:10px;
+    line-height:10px;
+    width:250px;
+    height:250px;
+
+}
+.group{
+   line-height:10px; 
+  
+}
+h1{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-family:"Arial";
+    font-size:45px;
+}
+abbr{
+    color:aqua;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 260px;
+    height: 260px;
+  }
